@@ -7,4 +7,4 @@ if the program finds one of those words it will print "suspicious". Otherwise, i
 <br><Br>
 How to execute:<Br>
   - Compile: "javac WordFinder.java"<Br>
-  - Execute: "java WordFinder <url>" <url> can be any url that you want, i.e.: "java WordFinder https://docs.oracle.com/en/java/"<Br>
+  - Execute: "java WordFinder --URL--" --URL-- can be any url that you want, i.e.: "java WordFinder https://docs.oracle.com/en/java/"<Br>
